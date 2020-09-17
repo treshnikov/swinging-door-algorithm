@@ -1,3 +1,4 @@
-﻿# swinging door algorithm
-* Код к статье [Компрессия данных в системах промышленной автоматизации. Алгоритм SwingingDoor](https://habrahabr.ru/post/105652/)
-* Пример был написан в далеком 2010 году на Delphi
+# Overview
+- The Swing Door data compression algorithm implemented during the work on the [Infocont] project (http://www.infocont.ru/).
+- This algorithm is also mentioned in my article on [habr] (https://habrahabr.ru/post/105652/).
+- The code was developed in Delphi in 2010.
